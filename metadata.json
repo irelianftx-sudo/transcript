@@ -1,0 +1,5 @@
+{
+  "name": "Audio Transcription App",
+  "description": "A sleek and modern web application to transcribe audio files from a URL into Brazilian Portuguese using an external transcription service.",
+  "requestFramePermissions": []
+}
